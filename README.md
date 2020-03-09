@@ -1,4 +1,6 @@
 ![Ready badge](https://img.shields.io/badge/Ready-no-<COLOR>.svg) ![Stable badge](https://img.shields.io/badge/Stable-no-<COLOR>.svg)
+<br>
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable
 <hr>
@@ -11,6 +13,9 @@ Over engineering your code is a bad plague. I want this code to be easy to manag
 <br>
 <h1><i>Is it ready?</i></h1>
 Currently, I would argue that the code <em>is not ready</em> for production usage. It's still buggy and needs work, I will be actively updating it.
+<br>
+<h1>Documentation?</h1>
+I do plan to work on documentation(or automatic generation of it, per se) for this framework
 <br>
 <h1> Pull requests </h1>
 I will review and accept any valid pull requests that come in.
