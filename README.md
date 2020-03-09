@@ -3,7 +3,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable
-<hr>
 <h1>Goals</h1>
 This is a web framework I'm working on personally, that is going to be focused on 3 main things<br>
 + 1. Readability<br>
