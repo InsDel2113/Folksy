@@ -1,13 +1,16 @@
 ![Ready badge](https://img.shields.io/badge/Ready-no-<COLOR>.svg) ![Stable badge](https://img.shields.io/badge/Stable-no-<COLOR>.svg)
 <br>
-![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)<br>
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable
 <h1>Goals</h1>
 This is a web framework I'm working on personally, that is going to be focused on 3 main things<br>
-+ 1. Readability<br>
-+ 2. Modifiabilty<br>
-+ 3. Simplicity<br>
+<ul>
+  <li>Readability</li>
+  <li>Modifiabilty</li>
+  <li>Simplicity</li>
+</ul>  
 Over engineering your code is a bad plague. I want this code to be easy to manage for beginners yet still be secure and fast enough to use in production.
 <br>
 <h1><i>Is it ready?</i></h1>
