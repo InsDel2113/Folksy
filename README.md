@@ -1,7 +1,7 @@
 ![Ready badge](https://img.shields.io/badge/Ready-no-<COLOR>.svg) ![Stable badge](https://img.shields.io/badge/Stable-no-<COLOR>.svg)
 <br>
 ![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)<br>
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable
 <h1>Goals</h1>
