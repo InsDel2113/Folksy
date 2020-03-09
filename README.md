@@ -1,10 +1,16 @@
+![Ready badge](https://img.shields.io/badge/Ready-no-<COLOR>.svg) ![Stable badge](https://img.shields.io/badge/Stable-no-<COLOR>.svg)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable
 <hr>
-This is a web framework I'm working on personally, that is going to be focused on 3 main things
-1. Readability
-2. Modifiabilty
-3. Simplicity
-<hr>
+<h1>Goals</h1>
+This is a web framework I'm working on personally, that is going to be focused on 3 main things<br>
++ 1. Readability<br>
++ 2. Modifiabilty<br>
++ 3. Simplicity<br>
 Over engineering your code is a bad plague. I want this code to be easy to manage for beginners yet still be secure and fast enough to use in production.
-
+<br>
+<h1><i>Is it ready?</i></h1>
+Currently, I would argue that the code <em>is not ready</em> for production usage. It's still buggy and needs work, I will be actively updating it.
+<br>
+<h1> Pull requests </h1>
+I will review and accept any valid pull requests that come in.
