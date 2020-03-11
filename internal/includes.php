@@ -10,7 +10,7 @@ $use_whoops = true; // use Whoops! Error handler
 $use_csrfmagic = true; // use CSRFMagic for automatic CSRF handling
 $dbhost = 'localhost';
 $dbuser = 'root';
-$dbpass = 'sk4839$$309dsjkla%*(398$#8GG';
+$dbpass = 'dbpass';
 $dbname = 'folksy_framework';
 // for class based stuff, make it a public var in the class itself
 
