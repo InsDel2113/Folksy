@@ -3,7 +3,8 @@
 ![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)<br>
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 # Folksy
-a PHP web framework focusing on simplicity and being easily modifiable
+a PHP web framework focusing on simplicity and being easily modifiable<br>
+Make sure to read our <a href="https://github.com/InsDel2113/Folksy/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a> and <a href="https://github.com/InsDel2113/Folksy/blob/master/CONTRIBUTING.md">Contribution guidelines</a>
 <h1>Goals</h1>
 This is a web framework I'm working on personally, that is going to be focused on 3 main things<br>
 <ul>
@@ -20,4 +21,7 @@ Currently, I would argue that the code <em>is not ready</em> for production usag
 I do plan to work on documentation(or automatic generation of it, per se) for this framework
 <br>
 <h1>Pull requests</h1>
-I will review and accept any valid pull requests that come in.
+<ul>
+  <li>Make sure to read our <a href="https://github.com/InsDel2113/Folksy/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a> and <a href="https://github.com/InsDel2113/Folksy/blob/master/CONTRIBUTING.md">Contribution guidelines</a></li>
+  <li>I will review and accept any valid pull requests that come in.</li>
+</ul>  
