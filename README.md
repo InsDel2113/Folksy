@@ -4,7 +4,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable<br>
-Make sure to read our <a href="https://github.com/InsDel2113/Folksy/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a> and <a href="https://github.com/InsDel2113/Folksy/blob/master/CONTRIBUTING.md">Contribution guidelines</a>
+Make sure to read our <a href="https://github.com/InsDel2113/Folksy/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a>
 <h1>Goals</h1>
 This is a web framework I'm working on personally, that is going to be focused on 3 main things<br>
 <ul>
