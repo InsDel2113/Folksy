@@ -10,7 +10,7 @@ $use_whoops = true; // use Whoops! Error handler
 $use_csrfmagic = true; // use CSRFMagic for automatic CSRF handling
 $dbhost = 'localhost';
 $dbuser = 'root';
-$dbpass = 'sk4839$$309dsjkla%*(398$#8GG';
+$dbpass = '';
 $dbname = 'folksy_framework';
 // for class based stuff, make it a public var in the class itself
 
@@ -24,6 +24,8 @@ require_once 'libraries/vendor/autoload.php'; // include libraries
 require_once 'classes/db.php'; // database/mysqli handler
 require_once 'classes/logging.php'; // logger
 require_once 'classes/auth.php';
+require_once 'classes/user.php';
+require_once 'classes/misc.php';
 
 if ( $auto_sanitize_input ) {
     function sanitize_ins(&$item)
@@ -49,6 +51,10 @@ $db     = new db($dbhost, $dbuser, $dbpass, $dbname); // init db class
 $logging = new logging(); // init logging class
 $templater = new League\Plates\Engine(''.$_SERVER["DOCUMENT_ROOT"].'/internal/templates');
 $auth = new auth();
+$user = new user();
+$misc = new misc();
+
+$user->init_user(); // initilalize all user related variables
 
 
 ?> 
