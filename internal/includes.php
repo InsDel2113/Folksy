@@ -56,5 +56,4 @@ $misc = new misc();
 
 $user->init_user(); // initilalize all user related variables
 
-
 ?> 
