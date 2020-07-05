@@ -9,6 +9,6 @@ if ( count($user_info) === 0 ) {
 }
 
 // Render a template
-echo $templater->render('templating_test', ['name' => $user_info['username']]);
+echo $templater->render('profile', ['username' => $user_info['username'], 'userid' => $user_info['userid']]);
 
 ?>

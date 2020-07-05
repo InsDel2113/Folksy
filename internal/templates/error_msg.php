@@ -1,0 +1,1 @@
+<center><font color="red">Error: <?= $this->e($msg)?></font></center>

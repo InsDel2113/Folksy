@@ -2,12 +2,12 @@
 // template
  $this->layout('template', ['title' => 'Register']) 
  ?>
- <center><h1 color="red"><?=$this->e($msg)?></h1></center>
+<?php if ( strlen($msg) > 0 ) { $this->insert('error_msg', ['msg' => $msg]); }?>
 <center><h1>Register</h1></center>
 <center>
-<form action="Register.php" method="post">
-Username: <input type="text" name="username"><br>
-Password: <input type="text" name="password"><br>
+<form action="register.php" method="post">
+Username: <input type="text" name="username"><br><br>
+Password: <input type="text" name="password"><br><br>
 <input type="submit">
 </form>
 </center>

@@ -1,4 +1,8 @@
 <?php $this->layout('template', ['title' => 'User Profile']) ?>
-
-<h1>User Profile</h1>
-<p>Hello, <?=$this->e($name)?></p>
+<center>
+<fieldset>
+<legend>User Profile</legend>
+<p><?=$this->e($username)?></p>
+<p><?=$this->e($userid)?></p>
+</fieldset<
+</center>

@@ -1,0 +1,10 @@
+[03-Jul-2020 21:54:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\internal\classes\auth.php on line 61
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in C:\xampp\htdocs\internal\includes.php on line 8
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 24
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 33
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 39
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 44
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 44
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 44
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\internal\includes.php on line 44
+[04-Jul-2020 00:49:58 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\internal\classes\db.php on line 31
