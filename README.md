@@ -3,7 +3,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)<br>
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
-<h1>NOT DEAD, STILL BEING WORKED ON! expect a big commit soon</h1>
 # Folksy
 a PHP web framework focusing on simplicity and being easily modifiable<br>
 <h1>Goals</h1>
